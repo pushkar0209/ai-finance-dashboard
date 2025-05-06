@@ -1,0 +1,43 @@
+{
+  "name": "ai-finance-dashboard",
+  "version": "1.0.0",
+  "description": "An AI-Powered Personal Finance Dashboard",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "finance",
+    "dashboard",
+    "AI",
+    "personal finance"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "j": "^1.0.0",
+    "joi": "^17.13.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-plugin-react": "^7.27.0"
+  },
+  "homepage": "https://github.com/yourusername/ai-finance-dashboard",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/ai-finance-dashboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/ai-finance-dashboard/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
